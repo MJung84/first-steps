@@ -88,3 +88,20 @@ Create Folder
 Change folder
 
 Command "cd coding-projects" will change your location to that file just created
+
+xxx create or delete a file in your current location
+
+Command "touch"
+
+Example: "touch test.md" will create a md file named test
+
+Inline-style: 
+![alt text](https://user-images.githubusercontent.com/99718218/154250358-ea2cd408-d863-4bcc-b29a-4c0c82cde7a7.JPG "touch")
+
+Removing files an folders
+
+Command "rm test.md" will remove this file if it exists
+
+Command "rm -rf project-1" will remove a folder
+
+Caution: Files will be removed permanent.
