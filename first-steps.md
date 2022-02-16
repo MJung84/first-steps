@@ -21,4 +21,4 @@ see issues
 
 ### Layout
 
-click [this link] (https://google.com) to go to google
+click [this link](https://google.com) to go to google
