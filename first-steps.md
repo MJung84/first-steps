@@ -49,3 +49,14 @@ If you want to use Git Bash please download Git for Windows and install it.
 Please select Use Git from Git Bash only during installation.
 
 click [this link](https://git-scm.com/download/win)
+
+## What is a terminal?
+
+A terminal, or a console, is windowfor text based management of your system via a shell (command-line interpreter)
+- basically you can run text based commands on your system
+
+Terminals can use different shells, so they may look different
+
+### First steps
+
+Where am I?
