@@ -1,8 +1,8 @@
 # First steps
 
 Markdown Basics
-- Go to [Ccheckbox lists] (#Ccheckbox-lists)
-- Go to [Links in markdown] (#Links-in-markdown)
+- Go to [Ccheckbox lists](#checkbox-lists)
+- Go to [Links in markdown](#links-in-markdown)
 
 ## Lists
 
@@ -10,7 +10,7 @@ Markdown Basics
 - simple
 - need a new coffee
 
-## Ccheckbox lists
+## Checkbox lists
 
 - [ ] text
 - [x] text 2
