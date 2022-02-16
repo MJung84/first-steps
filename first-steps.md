@@ -112,5 +112,21 @@ Command "echo" just displays the upfollowing inputExample
 
 Command "echo Hallo Welt" will show this
 
-Inline-style: 
 ![alt text](https://user-images.githubusercontent.com/99718218/154268860-3c79d187-e41f-4a69-b063-23b41ae69ee9.JPG "echo")
+
+With the command "echo Hallo Welt > test.md" will create a .md file which contents the words Hallo Welt
+
+You can display the content by "cat test.md"
+
+![alt text](https://user-images.githubusercontent.com/99718218/154269520-3f575a75-647c-441b-a970-586d1b677f30.JPG "echo-cat")
+
+If you want to create the Hall Welt as a Headline, echo # Hallo Welt will not work, as the # ist considered as a comment. echo "# Hallo Welt" will do the job
+
+![alt text](https://user-images.githubusercontent.com/99718218/154269520-3f575a75-647c-441b-a970-586d1b677f30.JPG "echo-incl-commands")
+
+Also coping contents in a new file is possible this way
+
+![alt text](https://user-images.githubusercontent.com/99718218/154271726-423d4d5d-f490-493b-8e6f-e387f1277ccc.JPG "echo-cat-exprot")
+
+### Moving and copying files with the mv and cp commands
+
