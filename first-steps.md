@@ -89,7 +89,7 @@ Change folder
 
 Command "cd coding-projects" will change your location to that file just created
 
-xxx create or delete a file in your current location
+### Create or delete a file in your current location
 
 Command "touch"
 
@@ -129,4 +129,29 @@ Also coping contents in a new file is possible this way
 ![alt text](https://user-images.githubusercontent.com/99718218/154271726-423d4d5d-f490-493b-8e6f-e387f1277ccc.JPG "echo-cat-exprot")
 
 ### Moving and copying files with the mv and cp commands
+
+Use "mv" followed by file name and folder name, to move the file in a folder at your current location
+
+![alt text](https://user-images.githubusercontent.com/99718218/154273115-4238f51f-ab0e-4365-849c-e6a9adcce407.JPG "moving-files")
+
+Command mv file.name .. will move the file one folder up
+
+![alt text](https://user-images.githubusercontent.com/99718218/154273890-589a603b-47f3-46e1-a39c-ec3999c3f246.JPG "move-up")
+
+mv commandf can also be used to rename files. "mv file.name file.newname will do this task
+
+![alt text](https://user-images.githubusercontent.com/99718218/154274380-07522c46-ac91-4060-a718-71a0cc22b2cb.JPG "rename")
+
+The command cp will coppy items to another location, use cp followed by file name, followed by new location
+
+![alt text](https://user-images.githubusercontent.com/99718218/154275440-82563e73-4a81-4860-9aa8-7cf8ae527eff.JPG "copy")
+
+You can also rename it in the step
+
+![alt text](https://user-images.githubusercontent.com/99718218/154275966-0314d8cb-68b2-4f74-83d0-120559d8d0fb.JPG "copy-rename")
+
+### Visual Studio Code
+
+Start VS in your current folder location "code ."
+Start VS Code with a specific file in your location "code example.md"
 
