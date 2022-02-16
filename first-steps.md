@@ -60,3 +60,4 @@ Terminals can use different shells, so they may look different
 ### First steps
 
 Where am I?
+- just type "pwd"
