@@ -22,3 +22,7 @@ see issues
 ### Layout
 
 click [this link](https://google.com) to go to google
+
+click [this link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to to find more commands
+
+-further commands will be added later
