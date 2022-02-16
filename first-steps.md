@@ -33,7 +33,7 @@ click [this link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatshe
 Terminals will help you to organize your projects. As Linux commands are used, an additional program is necessary
 
 - Cmdr, multi tab support, solid base
-- 
+
 click [this link](https://cmder.net/)
 
 - Hyper Terminal, more fancy web-app
