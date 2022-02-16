@@ -57,7 +57,34 @@ A terminal, or a console, is windowfor text based management of your system via 
 
 Terminals can use different shells, so they may look different
 
-### First steps
+### First steps. Basic commands
 
 Where am I?
 - just type "pwd"
+
+Example
+
+Inline-style: 
+![alt text](https://user-images.githubusercontent.com/99718218/154245637-7f4c6972-1458-45b4-a174-bcfa38170ff7.JPG "example")
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://user-images.githubusercontent.com/99718218/154245637-7f4c6972-1458-45b4-a174-bcfa38170ff7.JPG "example"
+
+Clear previous commands with "clear"
+
+Command "ls" shows the content of your current location
+Command "ls -l" does the same, but more detailed
+Command "ls -a" will also display hidden files
+Command "ls -a -l" to detailed list including hidden files
+
+### Creating and changing directions with the mkdir and cd commands
+
+Create Folder
+
+"mkdir coding-projects" will create a folder in your current location named "coding-projects"
+
+Change folder
+
+Command "cd coding-projects" will change your location to that file just created
