@@ -105,3 +105,12 @@ Command "rm test.md" will remove this file if it exists
 Command "rm -rf project-1" will remove a folder
 
 Caution: Files will be removed permanent.
+
+### Create files with content and ,diesplaying them
+
+Command "echo" just displays the upfollowing inputExample
+
+Command "echo Hallo Welt" will show this
+
+Inline-style: 
+![alt text](https://user-images.githubusercontent.com/99718218/154268860-3c79d187-e41f-4a69-b063-23b41ae69ee9.JPG "echo")
